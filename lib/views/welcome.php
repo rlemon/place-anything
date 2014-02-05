@@ -8,8 +8,8 @@
 				<strong>A quick and simple service for getting pictures for use as placeholders in your designs or code.</strong> Just put your image size (width <span class="amp">&amp;</span> height) after our URL and you'll get a&nbsp;placeholder.
 			</p>
 			<p class="links">
-				enter links like this: http://example.com/i/400/600 <br>
-				or http://example.com/image/400/600 
+				enter links like this: http://example.com/400/600 <br>
+				or http://example.com/i/400/600 
 			</p>
 			<img id="image-0" src="i/408/287" alt=""/>
 		</div>
