@@ -11,7 +11,7 @@
 				enter links like this: http://example.com/400/600 <br>
 				or http://example.com/i/400/600 
 			</p>
-			<img id="image-0" src="i/408/287" alt=""/>
+			<img id="image-0" src="i/408/287?0" alt=""/>
 		</div>
 		<div id="unit-many-many-pictures-of-small-imgs" class="unit">
 			<img id="image-1" src="i/200/287?1" alt=""/>
